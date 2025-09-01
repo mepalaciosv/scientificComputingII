@@ -1,4 +1,5 @@
 # Scientific Computing II
-This repository contains the material of the course Scientific Computing II taught at Konrad Lorenz University by Julián Jiménez Cárdenas during 2024-I.
 
-Email me: juliano.jimenezc@konradlorenz.edu.co
+This repository contains the material for the Scientific Computing II course taught at Fundación Universitaria Konrad Lorenz by E. Margarita Palacios Vargas during 2025-II.
+
+Send me an email in case you've got any question or suggestions: esperanza.palacios@konradlorenz.edu.co
