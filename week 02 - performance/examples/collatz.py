@@ -24,6 +24,5 @@ def collatz_dir(n):
     return maximum
 
 
-
-if __name__ == "__main__":
-    print(collatz_dir(int(1e6)))
+def main():
+    return collatz_dir(int(1e6))
